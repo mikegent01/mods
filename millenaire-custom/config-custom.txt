@@ -21,9 +21,9 @@ ignore_resource_cost=false
 random_uid=8823267391634262016
 
 //Advancement completed for anonymous statistics
-advancements_creative=
+advancements_creative=explorer
 
 //Advancement completed for anonymous statistics
 advancements_survival=
 
-validation=346190835
+validation=346190873
