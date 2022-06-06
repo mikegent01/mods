@@ -1,0 +1,88 @@
+### NOTICE ###
+Planets & Moons that end with "ep" are added by ExtraPlanets.
+Please keep this in mind if choosing a planet that is added by both ExtraPlanets & GalaxySpace
+
+This file is regenerated every time minecraft is ran to handle any addons added or removed
+
+
+| ### PLANETS ###
+|------------------
+| space_nether              -2541
+| yzcetib                   -4101
+| atheon                    -7998
+| proxima_b                 -1025
+| trappist1c                -4502
+| yzcetic                   -4102
+| kepler22b                   -22
+| kriffus                   -7994
+| mercury                   -1005
+| yzcetid                   -4103
+| mercuryep                   -13
+| barnarda_c                -1030
+| venus                       -31
+| perdita                   -7979
+| trappist1e                -4504
+| altum                     -7878
+| eden                      -7996
+| overworld                     0
+| toci                      -7985
+| tauceti_f                 -1338
+| mars                        -29
+| xathius                   -7983
+| fronos                    -2545
+| maveth                    -4552
+| purgot                    -7988
+| tlaloc                    -7986
+| ceres                     -1007
+| asteroids                   -30
+| ceresep                     -20
+| oasis                     -7990
+| caligro                   -7877
+| centotl                   -5214
+| nibiru                    -2544
+| saturnep                    -16
+| zollus                    -7982
+| candora                   -7777
+| jupiterep                   -15
+| uranusep                    -17
+| kronos                    -7993
+| xantheon                  -7984
+| exodus                    -7980
+| neptuneep                   -18
+| pluto                     -1008
+| vortex                    -7675
+| plutoep                     -19
+| chalos                    -2543
+| kuiperbelt                -1009
+| eris                        -21
+| haumea                    -1023
+| metztli                   -7991
+| diona                     -2542
+
+
+| ### MOONS ###
+|------------------
+| phobos                    -1012
+| ioep                      -1500
+| phobosep                  -1502
+| rheaep                    -1507
+| titaniaep                 -1510
+| tritonep                  -1504
+| koentus                   -2642
+| io                        -1014
+| miranda                   -1024
+| astros                    -7981
+| moon                        -28
+| enceladus                 -1017
+| europa                    -1015
+| deimosep                  -1503
+| europaep                  -1501
+| oberonep                  -1509
+| titanep                   -1508
+| ganymede                  -1016
+| triton                    -1021
+| ganymedeep                -1506
+| iapetusep                 -1511
+| callisto                  -1022
+| titan                     -1018
+| callistoep                -1505
